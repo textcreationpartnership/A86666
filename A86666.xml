@@ -1,0 +1,264 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The innocency of the righteous seed of God cleared from all slanderous tongues and false accusers.</title>
+            <author>Hubberthorn, Richard, 1628-1662.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1655</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 34 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86666</idno>
+            <idno type="STC">Wing H3226</idno>
+            <idno type="STC">Thomason E845_4</idno>
+            <idno type="STC">ESTC R202540</idno>
+            <idno type="EEBO-CITATION">99862787</idno>
+            <idno type="PROQUEST">99862787</idno>
+            <idno type="VID">168203</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86666)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168203)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 128:E845[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The innocency of the righteous seed of God cleared from all slanderous tongues and false accusers.</title>
+                  <author>Hubberthorn, Richard, 1628-1662.</author>
+               </titleStmt>
+               <extent>15, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1655]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed and dated: the 29. day of the 3. month 1655. ... Richard Hubberthorne.</note>
+                  <note>A reply to: Woodall, Frederick.  Natural and spiritual light distinguished.</note>
+                  <note>Caption title.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "June 29 1655".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Woodall, Frederick, b. 1614. --  Natural and spiritual light distinguished --  Early works to 1800.</term>
+               <term>Inner Light --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="treatise">
+            <pb n="1" facs="tcp:168203:1" rendition="simple:additions"/>
+            <head>The Innocency of the righteous ſeed of God cleared from all ſlander<g ref="char:EOLhyphen"/>ous tongues and falſe accuſers.</head>
+            <p>
+               <seg rend="decorInit">I</seg>N anſwer to a printed paper ſet forth by <hi>Frederick Woodall,</hi> wherein he goes about to render the truth of God odious, and by a clack of maliciouſneſs to cover thoſe lies which he hath formerly publiſhed: but in the light of God, I do him ſee and comprehend, and in it he is made manifeſt to all the children of light to be no miniſter of Chriſt, and to the light of Chriſt in all conſciences I ſpeak that in it they may read theſe things which from the light is declared that ſo occaſion may be cut off from all who, ſeek occaſion againſt the truth; that ſo peoples minds may not be Inſenced againſt the truth of God by his refuge of lyes ſet forth in his paper, called naturall and ſpirituall light diſtinguiſhed.</p>
+            <p>But in the light of Chriſt, which is but one, which is not naturall but ſpirituall, is he ſeen to be naturall, and his diſtinction to be naturall and ſo in the light, the naturall man with his naturall doctrine, and naturall diſtinction is denied, and Chriſt Jeſus we do witneſſe, who is the true light which lighteth every one that cometh into the world <hi>John</hi> 1. 9.</p>
+            <p>I am come a light into the world that whoſoever belie<g ref="char:EOLhyphen"/>veth
+<pb n="2" facs="tcp:168203:2"/>
+in me ſhould not abide in darkneſs, <hi>John.</hi> 12. 46. and this is the condemnation of the world that light is come into the world and men loved darkneſs rather then light, becauſe their deeds were evill <hi>Joh.</hi> 3. 19. 20. 21.</p>
+            <p>Now all you who are enlightned by Chriſt Jeſus and can read in the light, and with underſtanding, to you there is no occaſion of ſtumbling, but all ſtumbling and the occaſion of it is in them who hates the light and calls it naturall, which light is Chriſt for him a witneſſe, I am againſt all ſuch who deny Chriſt to be the true light, which lighteth every on that cometh into the world.</p>
+            <div type="question">
+               <head>Who is of the world called <hi>Richard Hubberthorne,</hi>
+               </head>
+               <p>NOw as in anſwer to thee <hi>Frederick Woodall,</hi> who hath put a ſtumbling block before the eyes of many, by thy lies and deceipt to keep them from receiving the pure truth of God, which the Lord is now ſpreading abroad and making manifeſt to gather to himſelf his own from the mouths of all falſe ſheppards, that Jeſus Chriſt the true ſheppard they may come to witneſſe, who is the true light and is not naturall as thou would make him to be; nor that light in the conſcience is not naturall, which Jeſus Chriſt hath enlightned every one with all, but all who in it dwell ſhall witneſſe againſt thee, and thy ma<g ref="char:EOLhyphen"/>licious ſpirit, who hath uttered forth thy bitterneſſe and venome againſt thoſe who walk in the light, and who witneſſe the truth of God in the life and power of it, and againſt all falſe accuſers. In the beginning of thy Epiſtle to the Reader thy enmity thou utters forth againſt thoſe, who for the name of Chriſt do bare his reproach in the world, in whom the Scripture is fullfilled, which ſaith they ſhall ſpeak all manner of evill of you falſely for my name ſake, and thou art one of them who art ſpeaking evill and encouraging others to ſpeak evil againſt thoſe, whom thou and the reſt of the ſcorners call Quakers, and
+<pb n="3" facs="tcp:168203:2"/>
+calls them a neſt of ſtinging waſps, and ſaith that they have leavened a dear Brother and Siſter of thine and made them proſylites unto them.</p>
+            </div>
+            <div type="answer">
+               <p>This accuſation is returned back again upon thy own<note place="margin">I anſw.</note> head for the poiſon of aſps is found under thy tongue and forth of the venome doth proceed, as all who hath under<g ref="char:EOLhyphen"/>ſtanding may ſee and diſcern, and thoſe whom thou calls thy dear Brother and Siſter are made able in the light of Chriſt to teſtifie againſt thee and thy ly, and to witneſſe that they are brought out of the proſilites condition, and out of the leaven of the falſe profits and falſe teachers, which they were in ſo long as they followed thy doctrine, but now that doctrine they do ſee whichdoth leaven and draw peoples minds from the light of Chriſt within them, and ſo makes proſilites and children of the devill, but in the light of Chriſt art thou and all that uphold that do<g ref="char:EOLhyphen"/>ctrine ſeen and denied.</p>
+               <p>In the firſt page of thy paper thou would make people believe that thou makes no defence againſt my reply to thy anſwers, and yet in the ſecond page thou replies a<g ref="char:EOLhyphen"/>gainſt mine, concerning the tenth Query, and charges me in reputing thee the authour or father of aly, in returning to thee again thy own words in anſwer to the tenth Query which words are theſe, it is intollerable that Chriſt ſhould be the prince of peace.</p>
+               <p>I anſwer, let every on who hath a deſire to know, whe<g ref="char:EOLhyphen"/>ther this be ſo, read thy own words in thy printed paper in thy anſwer to the tenth Query, in the twelft page, whe<g ref="char:EOLhyphen"/>ther theſe be not thy own words, the tenth is Intollerable that Chriſt may be the Prince of peace, and here to all whoſe eyes are opened may ſee that thoudenies that Chriſt may be the Prince of peace, and ſaith it is Intollerable, and the reſt of thy words which are in anſwer to that Query are full of confuſion, and all who reads them may ſee it, ſo I leave thee to be Judged of all &amp; condemned of all, who in the light of Chriſt do ſee thy confuſion which proceeds out of thy own mouth.</p>
+            </div>
+            <div type="question">
+               <p>'Tis a previledge we have cauſe to bleſſe God for eve<g ref="char:EOLhyphen"/>ry<note place="margin">Prieſt.</note> day, viz. that unto us are committed the Oracles of God.</p>
+            </div>
+            <div type="answer">
+               <pb n="4" facs="tcp:168203:3"/>
+               <p>Here I charge the to prove when ever the oracles of<note place="margin">Anſw.</note> God was committed unto thee, or to the Prieſts of En<g ref="char:EOLhyphen"/>gland: unto the Jews they were committed which was be<g ref="char:EOLhyphen"/>fore Chriſt came in the fleſh, and they who had the ora<g ref="char:EOLhyphen"/>cles of God committed unto them did ſeek to kill and crucifie the Son of God, as you the prieſt of England who, go in the way of Cain and after the error of Ba<g ref="char:EOLhyphen"/>laam, do now ſeek to deſtroy the Son of God, where he is made manifeſt and the Oracles of God were never com<g ref="char:EOLhyphen"/>mitted unto you, nor the miniſtration of the Goſpell, but in the ſteps of thoſe you are found, who ever perſecuted the righteous ſeed of God, as you have made it manifeſt in this generation. And again thou art bringing ſcriptures to prove the letter to be the word of God: which Scriptu<g ref="char:EOLhyphen"/>res will witneſſe againſt thee, for the Scripture ſaith that God is the word, <hi>John</hi> 11. and thou art diminiſhing, from ſome and adding, to others and perverting the Scriptures to thy own ends, thou brings that ſcripture in <hi>Titus</hi> 2. 10. 11. 12. 13. and theſe words thou ſpeaks from them, this is the grace of God bringing ſalvation; when the Apoſtle ſaith for the grace of God that bringeth ſal<g ref="char:EOLhyphen"/>vation hath appeared to all men teaching us that denying ungodlineſs and worldly luſts wee ſhould live ſoberly, righteouſly and Godly in this preſent world, and here though thou bring this ſcripture in thy paper, yet it thou canſt not own, that the grace of God which bringeth ſal<g ref="char:EOLhyphen"/>vation to all men hath appeared, who denies Chriſt to have enlightned every one that comes into the world.</p>
+            </div>
+            <div type="question">
+               <p>This word for the manner of delivery unto us is called<note place="margin">Prieſt.</note> ſcripture, and we are commanded to ſearch it, <hi>Joh.</hi> 4. 39. and laid under the promiſe of bleſſing in that way, <hi>Pſal.</hi> 1. 2.</p>
+            </div>
+            <div type="answer">
+               <p>Here thou haſt numbered thy ſelf amongſt thoſe whom<note place="margin">Anſw.</note> Chriſt commanded to ſearch the ſcriptures, and amongſt them ſhalt thou be numbered, and in that ſcripture thou may read thy condition and the reſt of the prieſts with thee, as <hi>John</hi> 37. 38. 39. 40. ye have neither heard his voice at any time nor ſeen his ſhape, and ye have not his word abiding in you for whom he hath ſent ye him, be<g ref="char:EOLhyphen"/>lieve
+<pb n="5" facs="tcp:168203:3"/>
+not, ſearch the ſcriptures for in them ye think to have eternall life, and they are they which teſtifie of me, and ye will not come to me that ye might have life, now al you who are in the ſame condition, the ſame command is unto you. But there is no promiſe of bleſſing promiſed unto you in that way, no more then was to them, which was ſo commanded, but never prove your ſelves miniſters of Chriſt, for they were no miniſters of Chriſt that this was ſpoken, unto nor no Saints, but ſuch as received honour one of another as you do, who are in that generation. And they were ſuch as did not believe that which they did pro<g ref="char:EOLhyphen"/>feſſe, <hi>Moſes</hi> &amp; the Prophets, but Chriſt tells them plainly they did not believe <hi>Moſes</hi> nor his writings, and all you now that profeſſe Chriſt you cannot believe Chriſts words, who ſaith he is the true light which doth en<g ref="char:EOLhyphen"/>lighten every one that cometh into the world. Therefore out of the doctrine of Chriſt you are ſhut, and out of the ſcriptures which you do profeſſe, for the Sons life which witneſſeth the ſcriptures you deny, and are ſtrangers unto, he that hath an care to heare let him heare.</p>
+            </div>
+            <div type="question">
+               <p>Satan hath from the beginning envied a people this<note place="margin">Prieſt.</note> priviledge, and ſaith, at Chriſts firſt coming the com<g ref="char:EOLhyphen"/>mandements of God was made of none effect through tradition, <hi>Mat.</hi> 15. 6. and ſaith, at Chriſts ſecond coming the commandements of God will be of none effect through revelation.</p>
+            </div>
+            <div type="answer">
+               <p>Here thou haſt uttered forth words without know<g ref="char:EOLhyphen"/>ledge,<note place="margin">Anſw.</note> but it is that thy Ignorance and folly may be layed open unto all, for it was they that made the commande<g ref="char:EOLhyphen"/>ments of God of none effect through tradition, which precryed ſtanding in the Sinagogues had the chiefeſt places in the aſſemblies, and was called of men maſter, and in theſe ſteps art thou and the reſt of the prieſts in England who art the ſame things, for at Chriſts firſt coming he cried wo againſt ſuch, and the ſame Chriſt crys wo againſt the ſame things now, and whereas thou ſaieſt that at Chriſts ſecond coming the commandements of God will be of none effect through revelation, here I charge thee to be a blaſphemer and doſt ſpeake that thou haſt no ſcripture for
+<pb n="6" facs="tcp:168203:4"/>
+and contrary to the ſcriptures and contrary to the Apo<g ref="char:EOLhyphen"/>ſtles doctrine, for <hi>Paul</hi> did witneſſe Chriſt ſecond coming which was in the ſpirit as in <hi>Gallatians</hi> 2. and 2. and ſaith I went up by revelation and communicated unto them that Goſpell which I preached amongſt the gentiles and he did witneſſe the Son of God revealed in him and all the Apoſtles who did witneſſe him to be come again to them, the ſecond time to reveal the will of the Father un<g ref="char:EOLhyphen"/>to them, this did not make the commandements of God of none effect, &amp; the ſame Chriſt we do witneſſe to be come and hath revealed the Fathers will unto us, for no man knows the Father but the Son and he to whom the Son reveales him, this we do witneſſe, eternall living prayſes to him for ever more and by his revealing his Son in us his commandements are fulfilled, and ſo all ſuch we do deny that ſay by the revelation at the ſecond coming of Chriſt they ſhall be made of none effect.</p>
+            </div>
+            <div type="question">
+               <p>Certainly many old Teſtament Saints ſaw into the<note place="margin">Prieſt.</note> glory and liberty of New Teſtament times, yet durſt not ceaſe from that worſhip which was burdenſome world<g ref="char:EOLhyphen"/>ly and carnall, till the Lord did come in perſon and call them out.</p>
+            </div>
+            <div type="answer">
+               <p>Here I do charge thee to prove where ever any of the<note place="margin">Anſw.</note> Saints before Chriſt was made manifeſt in the fleſh did continue in that worſhip which they ſaw to be burden<g ref="char:EOLhyphen"/>ſome worldly and carnall, but did declare againſt all falſe worſhip ſacrifices and ſervices which was worldly and carnal, and againſt all who drew near to God with their mouths, whoſe harts was from God and againſt all Idolitrous worſhips which were carnall &amp; did caſt of e<g ref="char:EOLhyphen"/>very burden, as is witneſſed in the prophets, which were before Chriſt came in the fleſh, and here all the prophets and holy men of God ſhall witneſſe againſt thee, as <hi>Iſaiah, Jerem. David, Ezek, Mica,</hi> and the reſt who worſhipped God and their worſhip was not carnall nor worldly, neither did Chriſt come in perſon to call them out of their worſhip for they had finiſhed their teſtimo<g ref="char:EOLhyphen"/>ny before Chriſt came in the fleſh, who did fulfill their teſtimony and did bear witneſſe unto it, that it was of
+<pb n="7" facs="tcp:168203:4"/>
+God, and did declare all that were out of that worſhip which the Saints were in who worſhipped God before Chriſt came in the fleſh, who was the end of the Law and the end of the Prophets, let him that hath underſtanding read theſe things: now here doth Chriſt, the Saints &amp; the Scriptures all bear witneſs againſt thee and thy doctrine, which would make people believe that the Prophets and holy men of God who were before Chriſt came in the fleſh, did live and continue in that worſhip which was burdenſome worldly and carnall, which here is proved a<g ref="char:EOLhyphen"/>gainſt thee by Chriſt the Saints &amp; the Scriptures that ſhame may cover thy face and that thy mouth may be ſtopped and that the ſimple may know the truth, for whoſe ſakes this is given forth.</p>
+            </div>
+            <div type="question">
+               <p>So New Teſtament Saints may ſe into that liberty and<note place="margin">Prieſt.</note> glory, which is to be revealed but let them not go forth before the time but abide in New Teſtament worſhip till the Lord come in perſon and call them out, and then they ſhall go out all together, <hi>Matt.</hi> 24. 27. it is indeed a worthy life which we live in the ſpirit, but it is an un<g ref="char:EOLhyphen"/>worthy deceipt that except we live out of the Goſpell we cannot live in the ſpirit.</p>
+            </div>
+            <div type="answer">
+               <p>O be aſhamed for ever to profeſſe thy ſelf a miniſter<note place="margin">Anſw.</note> of Chriſt and of the Goſpell: why doſt thou preach at all, or what art thou a miniſter of, if that Chriſt be vet to be revealed or uncome in perſon, which thou houlds forth to the people, and how many ſouls haſt thou led into that pit of darkneſs and blindneſs as to believe that Chriſt is yet to come in perſon, he that confeſſeth not Jeſus Chriſt to be come in the fleſh is an antichriſt and he that preach<g ref="char:EOLhyphen"/>eth any other Goſpell or any other Chriſt, then that which did come in the fleſh and was made manifeſt in the Saints, and is now made manifeſt and witneſſed to be come in the fleſh, let him be accurſed, now the Scripture which thou brings in <hi>Matth.</hi> 24. 27. proves no ſuch thing as another Chriſt coming in perſon for the ſame Scrip<g ref="char:EOLhyphen"/>ture we do witneſſe to be fulfilled in us and in his light do we ſee all thoſe who are in the deſert, and who are in the ſecret chambers whom they go out, unto who turn
+<pb n="8" facs="tcp:168203:5"/>
+from the light of Chriſt within them, to harken unto thoſe who cannot witneſſe the coming of the ſon of man as the lighting from the Eaſt ſhineth even unto the Weſt, but talks of an expectation of the appearance of Chriſt in perſon, and profeſſed to be miniſters of that Chriſt which yet is to come in perſon, and here thou art raſed out from the Apoſtles doctrine who did not preach any other Chriſt but that which was come and made manifeſt, and did ne<g ref="char:EOLhyphen"/>ver tell of Chriſt ſecond coming in perſon nor of his per<g ref="char:EOLhyphen"/>ſonall raigne, and thou that tells of ſuch a deceipt that ex<g ref="char:EOLhyphen"/>cept ye live out of Goſpell, ye cannot live in the ſpirit, here thy deceipt is indeed made manifeſt and thy life, who would ſeparate the Goſpel from the ſpirit, but againſt that life and deceipt we bare witneſſe who by this ſpirit do, &amp; according to the Goſpell: Again thou art teaching people how to ſet up popery as followeth.</p>
+            </div>
+            <div type="question">
+               <p>If they will prove the pope ſupream Monarch this way<note place="margin">Prieſt.</note> it may be done; God made two lights the greater to rule the day viz. the Pope, the leſſer, to rule the night viz. the Emperour.</p>
+            </div>
+            <div type="answer">
+               <p>Here thou who hadſt profeſſed thy ſelf, long to be a<note place="margin">Anſw.</note> teacher and preached againſt popery and haſt not been aſhamed to accuſe others of it, who ſtand clear in the truth of God, witneſſing againſt all ſuch wayes of dark<g ref="char:EOLhyphen"/>neſſe, but now thou art here found teaching people how to make the Pope ſupreme Monarch, by ſaying God made two lights the greater to rule the day, viz. the Pope the leſſer to rule the night, viz. the Emperour, and ſo makes the Pope &amp; Emperour to be thoſe two lights, here I charge thee to prove where ever the miniſtres of Chriſt taught any ſuch thing to the people or did ſo contemne, and deſpiſe the or<g ref="char:EOLhyphen"/>dinances of Heaven, and the lights which God made to rule the day and the night, which thou compares to two carnall men like thy ſelf, and here thou haſt perverted the ſcriptures and made thy folly and deceipt manifeſt to all, that they that can but read in the naturall heavens will condemne thee, and out of thy own mouth, thou art con<g ref="char:EOLhyphen"/>demned, for in thy paper thou haſt ſaid that which is not ſcripturall is not ſpirituall, now for that which thou
+<pb n="9" facs="tcp:168203:5"/>
+haſt ſaid thou haſt no ſcripture to prove it, and the Scrip<g ref="char:EOLhyphen"/>ture will teſtifie againſt thee, and the Son and the Moon which are in there courſe in the Firmament of Heaven, will teſtiſie againſt the and ſo theſe we do deny and thy doctrine with the Pope and his ſupreme Monarch, &amp; all who worſhip the hoſt of Heaven, we deny being clear from there doctrine and deceipt.</p>
+            </div>
+            <div type="question">
+               <p>If they will eſtabliſh ſimplicite faith thus it may be<note place="margin">Prieſt.</note> done <hi>Job</hi> 1. 14. it is the oxon we are plowing, and the aſſes feeding beſides them (in Eaſt, the prieſts were preaching and the people believing this is to Crucifie the word of God.)</p>
+            </div>
+            <div type="answer">
+               <p>Here thou art proved and made manifeſt to be a falſe<note place="margin">Anſw.</note> teacher who art teaching people how to eſtabliſh impli<g ref="char:EOLhyphen"/>cite faith, and to blind the eyes of people thou brings that ſcripture <hi>Job</hi> 1. 14. when as there is no ſuch word as im<g ref="char:EOLhyphen"/>plicite faith ſpoken of there, nor in the ſcripture thou finds no ſuch word, nor did ever any of the miniſters of God teach people how to eſtabliſh any ſuch thing, and thoſe prieſts who preach that, and that people which believes it do make the word of God of none effect, through tra<g ref="char:EOLhyphen"/>dition.</p>
+            </div>
+            <div type="question">
+               <p>Thou art charging and accuſing ſome to hould forth<note place="margin">Prieſt.</note> the miſtery of iniquity in principles, and to affirm a com<g ref="char:EOLhyphen"/>munity of perſons, and things.</p>
+            </div>
+            <div type="answer">
+               <p>The miſtery of iniquity we know, and them in whom<note place="margin">Anſw.</note> it worketh, in all deceivableſſe of unrighteouſneſſe, and from it and its workings we are ſeparated by Chriſt Jeſus, and in his light do ſee, &amp; comprehend its workings in the children of diſobedience, and all vile, and unclean per<g ref="char:EOLhyphen"/>ſons, who are in the luſts of uncleanneſſe and in the miſte<g ref="char:EOLhyphen"/>ry of iniquity, and all things which are ſeparated from the light we have no union nor fellowſhip, with and all theſe practiſes we do deny, which are unclean, which is acted contrary to the light which is pure in which we are cal<g ref="char:EOLhyphen"/>led, not unto uncleanneſſe but unto holineſſe, and to this God is our witneſſe and our conſciences alſo bears us witneſſe, againſt all falſe accuſers, ſo I charge the who hath put forth this accuſation to turn thy mind to the
+<pb n="10" facs="tcp:168203:6"/>
+light of Chriſt in thy conſcience, and with it thou may ſee in thy ſelf the ground where this miſtery of iniquity worketh, and thou may ſee in thy ſelf, that which hath unity, with that which is uncleane the luſts of uncleaneſſe, in ordinate effections, and evill concupiſcence the ground which the miſtery of iniquity worketh in, is yet ſtanding in thee, and ſo, of the ſame things of which thou accuſes others art thou found guilty, which is for condemnation with the light.</p>
+            </div>
+            <div type="question">
+               <p>'Tis pitty Chriſt ſhould be the foundation, and wood<note place="margin">Prieſt.</note> hay ſtubble built there upon, yet this is poſſible, 1 <hi>Cor.</hi> 3. 15.</p>
+            </div>
+            <div type="answer">
+               <p>Here thou haſt perverted <hi>Pauls</hi> words, and ſpeaks thy<note place="margin">Anſw.</note> own invention contrary to the ſcripture, for <hi>Paul</hi> did not ſay 'tis pitty Chriſt ſhould be the foundation, but ſaid other foundations can no man lay then that is laid, which is Je<g ref="char:EOLhyphen"/>ſus Chriſt, 1 Cor. 3. 11. now if any man build upon this foundation, gold, ſilver, precious ſtones, wood hay ſtubble, every mans work ſhall be made manifeſt, now in the light art thou made manifeſt, that Chriſt is not thy foun<g ref="char:EOLhyphen"/>dation, who takes <hi>Pauls</hi> words out of their place, who witneſſed Chriſt to be the foundation, but thou art found building upon this foundation, gold, ſilver, hay ſtubble and making a refuge of lies, which is for the fire, whoſe work is to be burned in the day of the Lord.</p>
+            </div>
+            <div type="question">
+               <p>Thou ſayeſt wiſdome is grown up to perfection, amongſt<note place="margin">Prieſt.</note> that people called Quakers.</p>
+            </div>
+            <div type="answer">
+               <p>In the light of Chriſt we dwell which comprehends thy<note place="margin">Anſw.</note> wiſdome, which is earthly ſenſuall and diveliſh, and from that wiſdome theſe things publiſhed forth in thy paper do proceed which is full of lies and confuſion, but in the light of Chriſt made manifeſt in thoſe thou call Quakers, art thou ſeen to be in that wiſdome, which is not perfect and ſo thee, &amp; thy word we do deny, which is for condemna<g ref="char:EOLhyphen"/>tion with the light, which is contrary to thy earthly wiſ<g ref="char:EOLhyphen"/>dome.</p>
+            </div>
+            <div type="question">
+               <p>Thou Prieſt <hi>Woodall</hi> art accuſing me for numbering thee<note place="margin">Prieſt.</note> amongſt thoſe who are guilty of preaching for carnall things, who reap carnall things, and this thou makes thy
+<pb n="11" facs="tcp:168203:6"/>
+defence, ſaying this is my cauſe, more then ſeven years I have ſerved in the Goſpell, where I am receiving what a people freely give for my family, reproath in outward things refuſing a conſiderable ſettled maintenance elſe where.</p>
+            </div>
+            <div type="answer">
+               <p>Such as thou ſo weſt ſuch ſhalt thou reap, and all they<note place="margin">Anſw.</note> who have given thee mony for preaching ſuch things, as thou haſt here publiſhed forth in print, they have given thee mony for that which is not bread, and ſo bought the carnall with the carnall, but their ſouls are yet made mar<g ref="char:EOLhyphen"/>chandiſe of, &amp; that unjuſt gaine which thou haſt received this ſeven years from that people will riſe up in judge<g ref="char:EOLhyphen"/>ment againſt thee, who has not only uſed it for thy neceſ<g ref="char:EOLhyphen"/>ſity and ſupport in outward things, which were needfull for the uſe of the body, but haſt ſpent it upon thy luſt and pride in thy family, ſpending more in luſt and pride and gay apparell, then thoſe whom thou receives the gift from, and thou who ha<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h profeſſed thy ſelf to be a ſervant to that people, and they having given the wayes ſo long for that which did not profit them, thou after the manner of the gentiles hath exerciſed authority and lordſhip over them, and where as thou ſhouldeſt be their hired ſervant, they call thee maſter, thou which ſhould be the leaſt of all amongſt them, art greateſt of all exceeding them all in pride and high mindedneſs in eaſe in pleaſures in idleneſs and fulneſs of bread, but as the Lord doth open the eyes of thoſe whom thou haſt kept in blindneſs and ignorance, they will come to ſee thee and thy doctrine to be contrary unto the Goſpell of Chriſt, as they may plainly ſee and read thee in thoſe things, which thou haſt publiſhed forth in print, which is ſerviſable unto all who hath un<g ref="char:EOLhyphen"/>derſtanding that thy confuſion and folly, and lies againſt the truth againſt Chriſt againſt the Saints, and againſt the Scriptures they may ſee, which hath been long hid, but now is made manifeſt in the light unto all, who are come to know the free teachings of God, who will no more give the mony for ſpeaking a divination of thy own brain, and not from the mouth of the Lord.</p>
+            </div>
+            <div type="question">
+               <p>Who knows not that tithes and gleebs were under that<note place="margin">Priest.</note>
+                  <pb n="12" facs="tcp:168203:7"/>
+diſpenſation by divine law ordained for the maintinance of the prieſts.</p>
+            </div>
+            <div type="answer">
+               <p>Here thou would make people believe that thou denies<note place="margin">Anſw.</note> tithes which was for the maintenance of the Prieſts of the law, but as for the gleebs which thou ſpeaks of there was never any ſuch things ordained in the law, here thou haſt made it appear that thou art ignorant of that which was ordained for the prieſts maintenance under that diſpen<g ref="char:EOLhyphen"/>ſation, for they had no inheritance nor gleeb lands to maintain them as ſome of the prieſts of England have, and yet thoſe prieſts in England, which do receive tithes, and ſo upholds that which thou ſeems to deny, yet thou owns them as thy brethren, and to be miniſters of the Goſpell, and here your deceipt is ſo plainly made ma<g ref="char:EOLhyphen"/>nifeſt that you accuſe one another, and condemne one another all your harts being exerciſed with covetous practices preaching for filthy lucre, all being greed to<g ref="char:EOLhyphen"/>gether to perſecute ruile and ſlander the pure truth of God, where it is made manifeſt in his ſervants to declare againſt all your deceits: that out of your ſnares the righte<g ref="char:EOLhyphen"/>ous ſeed of God may be delivered to teſtifie againſt you &amp; your miniſtery under which the ſeed of God is keept in bondage.</p>
+            </div>
+            <div type="question">
+               <p>Reader I have done our heavenly Father, taketh<note place="margin">Priest.</note> ſleeping diſciples at the beſt, <hi>Matth.</hi> 26. 41.</p>
+            </div>
+            <div type="answer">
+               <p>Here thou haſt uttered forth aly, that all may plainly<note place="margin">Anſw.</note> ſee, which ſaith, thou haſt done, and in the next words ſaith our heavenly Father taketh ſleeping diſciples at the beſt now from this Scripture in <hi>Matth.</hi> 26. 40. thy words are proved to be falſe, for in that condition the diſciples were then in they were not at the beſt, who could not watch with Chriſt one hour and the comfortor was not then come, which afterwards they did witneſſe and travell and labour and faſting and prayer and watching day and night, they did witneſſe and we who do witneſs the ſame condition, now do teſtifie againſt thee and all who make lies of the Apoſtles who did witneſſe Jeſus Chriſt in truth and uprightneſſe of heart and the ſame Chriſt do we witneſſe and doth freely preach him to eve<g ref="char:EOLhyphen"/>ry
+<pb n="13" facs="tcp:168203:7"/>
+nature being made manifeſt to that of God in every ones conſcience to be witneſſed.</p>
+               <p>Now as my firſt Query is printed in thy paper the lat<g ref="char:EOLhyphen"/>ter<note place="margin">Prieſt.</note> part of it, I deny which was not given forth nor ſpo<g ref="char:EOLhyphen"/>ken ſo by me in thine, it is printed thus, how can that be ſaid to be a naturall light which witneſſeth unto God, <gap reason="illegible: faint" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> againſt the things of the ſpirit of God, which is falſe but in mine it is written thus, how can that be ſaid to be a naturall light which witneſſes unto God in that which is holy, and againſt the naturall inclinations of fallen man ſeeing the ſcripture ſaith the naturall man receives not the things of the ſpirit of God, 1 <hi>Cor.</hi> 2. 14. How as every one hath a deſire to know the truth of theſe things, that the occaſion of ſtumbling may be taken away, they may read the Query as it was given forth from me in the ſixteen page of that printed paper, called <hi>Davids</hi> enemies diſcovered which was put forth in print to be ſeen as it is there written before <hi>Woodalls</hi> paper, which is now in print was given forth, and this I have given forth that the truth may be cleared, owning that which did proceed from me and denying, that which is not mine, and as for <hi>Frederick Woodalls</hi> anſwer to the Queries they are re<g ref="char:EOLhyphen"/>plied unto in the paper above mentioned, and to the reſt of this printed paper an anſwer is here in returned that he may not boaſt in his folly, but may be aſhamed and re<g ref="char:EOLhyphen"/>pent.</p>
+               <p>Now as in anſwer to that in the latter end of thy book which thou directs the reader unto thou ſeeing that thou haſt holden forth theſe things, which thou canſt not prove, as the firſt Adam to be the fountain of all naturall good, and ſo to blind the eyes of people that they may not ſee thy ly, and ſaith thou means not primitively, and here thou ſpeaks on thing and means another, but this covering is two narrow for thee &amp; under it, thou canſt not hide thy ſelf but thy nakedneſs and ſhame appears to all whoſe eyes are opened and by them thou are ſeen.</p>
+               <p>And where as thou wouldeſt cover over thy ſhame of that thou haſt formerly ſpoken in telling of two images, the image of God and the image of Chriſt, and that the fi<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt
+<pb n="14" facs="tcp:168203:8"/>
+was naturall and the ſecond ſpirituall, and here thou ſpeaks contrary to the Scriptures, which ſaith, he is the ex<g ref="char:EOLhyphen"/>preſſe image of the Father, and here in all who do wit<g ref="char:EOLhyphen"/>neſs the Scriptures to be true muſt witneſs againſt thee who ſpeaks contrary to the Scriptures, and now to blind peo<g ref="char:EOLhyphen"/>ples eyes, thou tells them thou underſtands it thus, <hi>Adam</hi> was made after the Image of God, God the Father, Son and the holy Spirit, come let us make man after our, not my image. To this I anſwer here thou haſt added to the Scripture, for God did not ſay, not my image, as thou doth charge him to ſay, for the Scripture ſaith God created man in his own image in the image of God created he him, as <hi>Gen.</hi> 1. 27. &amp; thou calls that image in which <hi>Adam</hi> was created, the eſſentiall image, and the image of Chriſt thou calls a perſonall image, and here by them who dwell in the light thou art ſeen out of the ſubſtance in the images making to thy ſelf images, and likeneſſes from thy imagi<g ref="char:EOLhyphen"/>nations, but in them thou canſt not know God and Chriſt nor the image of God in which <hi>Adam</hi> was created in innocency, and there is no ſuch word in Scripture as eſ<g ref="char:EOLhyphen"/>ſentiall image, and here thou goes about to make three images, and ſo amongſt the image-makers thou art who art out of Gods commands, and there thou may read thy ſelf.</p>
+               <p>But now the Lord God is gathering his own ſeed by his eternall light out of all images and likeneſſes to be conformed to the image of his Son, and to bear his image who is inviſible, which all the imaginers cannot enter in<g ref="char:EOLhyphen"/>to, who ſtumble at the light, but all ſuch are ſeen by the children of the light and denied for now do they witneſs from the Lord, the day of redemption yea plentious redem<g ref="char:EOLhyphen"/>ption is now witneſſed by them who dwells in the light which comprehends the world, and out of the world, and out of the worlds teachings, and out of the worlds ways, and out of the worlds worſhips into the pure teachings of God &amp; into the Covenant, where they know God &amp; are taught of him, and no more can they be led by the blind guids for their eyes are opened which were blind &amp; now in the light of Chriſt the way is ſeen, which leads unto God
+<pb n="15" facs="tcp:168203:8"/>
+the Father of light, &amp; in it all falſe prophets &amp; falſe teach<g ref="char:EOLhyphen"/>ers they do ſee, &amp; by them cannot be deceived, who come in ſheeps cloathing and are beautifull outwardly deck<g ref="char:EOLhyphen"/>ed with the Saints words, but inwardly ravening Wolves, and now their covering comes to be taken off which was none of there own, and now the Wolf appears ravening againſt the Lambs of God, for the day hath made them manifeſt and of them the Lambs of God are aware, and in Innocency is preſerved, and in the pure wiſdome, which is not of this world in it they ſee and comprehend the ſer<g ref="char:EOLhyphen"/>pents wiſdome and ſubtility, and craftineſs, and ſnares, which for the righteous ſeed is laid but in the eternall lightmade manifeſt to the ſeed, a way is ſeen out of then all, and by the eternall power of the pure living God of life deliverance out of them, all is witneſſed, eternall pure living prayſes to him for evermore,</p>
+               <closer>
+                  <dateline>Given forth from the Love of God, to the ſouls of thoſe, who deſire to know the truth to take away all ſtum<g ref="char:EOLhyphen"/>blings, and cut of all occaſions from all minds, that in the light of Chriſt the truth they may ſee to be clear from all ſlanders and falſe accuſations, which from the unclean ſpirits proceed, which goeth out of the mouth of the Dragon to devoure the innocent, but from the dragon and all his floods, the innocent is preſerved,</dateline>
+                  <signed>Given forth from him who a witneſs ſtands for the truth of God againſt all deceipt
+<hi>Richard Hubberthorne.</hi>
+                  </signed>
+                  <dateline>Written from <hi>Mendleſham in Suffolk,</hi> 
+                     <date>
+                        <hi>the 29. day of the 3. Month</hi> 1655.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
